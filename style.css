@@ -1,7 +1,7 @@
 @keyframes incrementAnimation {
   from {
     /* opacity: 0; */
-    transform: translateX(35px);
+    transform: translateX(55px);
   }
   to {
     /* opacity: 1; */
